@@ -1,0 +1,70 @@
+body{
+    background-color:midnightblue;
+    color:rgb(55, 201, 169);
+    border:rgb(146, 21, 230) 3px solid;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+
+.triplet{
+    display:flex;
+    justify-content:space-between;
+    margin:10% 10% 10% 10%;
+    
+}
+
+#intro h1{
+    color:rgb(255, 106, 106);
+    font-size:350%;
+    margin-left:5%;
+}
+
+#intro p{
+    margin-bottom:-5%;
+    font-size:110%;
+}
+
+.song{
+    width:30%;
+    /* border:midnightblue 2px solid; */
+}
+.triplet{
+    margin-bottom: 20px;
+}
+
+.embed-vid{
+
+    width:70%;
+    height:100%;
+}
+
+.song-title{
+    color:rgb(223, 203, 27)
+}
+
+.container{
+    margin-bottom: 20%;
+}
+
+#movie-box img{
+    width:80%;margin:2% 10% 0px 10%;
+}
+
+.movie-title{
+    font-size: xx-large;
+    text-align: center;
+    color:rgb(238, 77, 77);
+}
+
+.movie-description{
+    margin:1% 8% 10% 8%;
+    font-size:large;
+}
+
+#conclusion{
+    text-align: center;
+    color:gold;
+    font-size:large;
+    margin:0 20% 0 20%;
+}
